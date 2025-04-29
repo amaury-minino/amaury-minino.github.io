@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![myself](./photos/Amaury Minino Headshot.jpg)
+![myself](./photos/csu_math_photo.jpeg)
 
 Hello, I am a fourth year math graduate student at Colorado State University.
 
