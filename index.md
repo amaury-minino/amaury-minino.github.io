@@ -7,7 +7,7 @@ layout: default
 
 Hello, I am a fifth year math PhD Candidate at Colorado State University.
 # Currently Teaching
-* <a href="./DifEqCoursePage.md" title="ODEs ">Math 340: Ordinary Differential Equations </a>
+* <a href="/CoursePages/DifEqCoursePage.md" title="ODEs ">Math 340: Ordinary Differential Equations </a>
 # Teaching
 
 * FA20-SP22 - Math 161: Calculus for Physical Scientists II
