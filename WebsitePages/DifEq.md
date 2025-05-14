@@ -1,3 +1,6 @@
+layout: page
+title: "Differential Equations"
+permalink: https://amaury-minino.github.io/WebsitePages/DifEq.md
 
 # Syllabus
 
