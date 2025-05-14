@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Click <a href="/index.md" title="Home ">here </a> to return home
 
