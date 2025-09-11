@@ -9,6 +9,11 @@ Hello, I am a fifth year math graduate student at Colorado State University.
 # Currently Teaching
 * [Math 340: Ordinary Differential Equations](./CoursePages/DifEqCoursePage.md)
 
+# CV
+* Click [HERE](./CV.md)
+
+# Research Interests
+* Click [HERE](./Research%20Interest.md)
 
 # Teaching
 
