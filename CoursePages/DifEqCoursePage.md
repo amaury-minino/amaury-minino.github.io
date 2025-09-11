@@ -5,7 +5,9 @@ permalink: /CoursePages/DifEqCoursePage.html
 ---
 
 {% include head-custom.html %}
-Click <a href="/index.md" title="Home ">here </a> to return home
+<a href="/index.md" title="Home">
+    <button type="button" style="margin-bottom: 1em;">Click here to return home</button>
+</a>
 
 # Syllabus
 
