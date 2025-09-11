@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Differential Equations Course Page
-permalink: /CoursePages/DifEqCoursePage.html
+permalink: /CoursePages/CV.html
 ---
 
 {% include head-custom.html %}
