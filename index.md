@@ -13,7 +13,7 @@ Hello, I am a sixth year math graduate student at Colorado State University. My 
 * Click [HERE](./CV.md)
 
 # Research Interests
-* Click [HERE](./Research%20Interest.md)
+* Click [HERE](./Research-Interest.md)
 
 # Teaching
 
