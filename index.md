@@ -5,9 +5,8 @@ layout: default
 
 ![myself](./photos/Amaury Minino Headshot.jpeg)
 
-Hello, I am a fifth year math PhD Candidate at Colorado State University.
-# Currently Teaching
-* <a href="/CoursePages/DifEqCoursePage.md" title="ODEs ">Math 340: Ordinary Differential Equations </a>
+Hello, I am a fifth year math graduate student at Colorado State University.
+
 # Teaching
 
 * FA20-SP22 - Math 161: Calculus for Physical Scientists II
@@ -16,4 +15,5 @@ Hello, I am a fifth year math PhD Candidate at Colorado State University.
 * SM23 - Math 369: Linear Algebra
 * FA23 - Math 340: Ordinary Differential Equations
 * SP24-FA24 - Assistant Director: Precalculus Program
-* SP25-FA25 - Math 340: Ordinary Differential Equations 
+* SP25-FA25 - [Math 340: Ordinary Differential Equations](./CoursePages/DifEqCoursePage.md)
+

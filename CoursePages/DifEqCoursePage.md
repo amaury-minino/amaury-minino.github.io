@@ -1,4 +1,10 @@
+---
+layout: default
+title: Differential Equations Course Page
+permalink: /CoursePages/DifEqCoursePage.html
+---
 
+{% include head-custom.html %}
 Click <a href="/index.md" title="Home ">here </a> to return home
 
 # Syllabus
