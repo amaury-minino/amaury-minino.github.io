@@ -5,6 +5,7 @@ layout: default
 
 <!--![myself](./photos/Amaury Minino Headshot.jpeg) -->
 <img src="./photos/Amaury Minino Headshot.jpeg" alt="Portrait of Amaury V. Miniño" style="width:50%; height:auto;">
+
 Hello, I am a sixth year math graduate student at Colorado State University. My Website is currently under construction.
 # Currently Teaching
 * [Math 340: Ordinary Differential Equations](./CoursePages/DifEqCoursePage.md)
