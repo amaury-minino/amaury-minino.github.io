@@ -11,57 +11,38 @@ permalink: /CoursePages/Research-Interest.html
 
 # Research Interests
 
-Welcome to my research interests page! Here you can find an overview of the topics and areas I am passionate about.
+Welcome to my research page! Here you can find an overview of the topics and areas I am passionate about.
 
 ---
 
 ## Areas of Focus
 
-### Artificial Intelligence & Machine Learning
+### Tensors Decomposition
 <!-- this is how markdown writes comments -->
-<!-- Write a full paragraph about your interests in AI & ML here. -->
 
-- Deep learning architectures
-- Natural language processing
-- Reinforcement learning
+- Orthogonal Decomposition of Vector Spaces/Modules
+- Derivation Algebras of Tensors
+For my work, I look at tensors as multilinear maps. 
 
-### Data Science
+### Hypergraphs
 
-<!-- Write a full paragraph about your interests in Data Science here. -->
+- Adjacency Tensors of Hypergraphs
+- Global Structure
 
-- Data visualization
-- Statistical modeling
-- Big data analytics
+An application of my work on tensor decomposition is in studying adjacency tensors of hypergraphs. While traditional methods utilize an extension of spectral theory to multilinear functions, I am instead leveraging the use of endomorphisms on the vector spaces over which these tensors are defined.
 
-### Computer Vision
-
-<!-- Write a full paragraph about your interests in Computer Vision here. -->
-
-- Image recognition
-- Object detection
-- Video analysis
-
-### Robotics
-
-<!-- Write a full paragraph about your interests in Robotics here. -->
-
-- Autonomous systems
-- Human-robot interaction
-- Robot learning
-
----
-
+<!-->
 ## Current Projects
 
 - **Project A:** Exploring novel neural network models for image classification.
 - **Project B:** Developing scalable data pipelines for real-time analytics.
 - **Project C:** Investigating reinforcement learning in dynamic environments.
 
----
-
+-->
+--
 ## Get in Touch
 
-If you share similar interests or wish to collaborate, feel free to [contact me](mailto:your.email@example.com).
+If you share similar interests or wish to collaborate, feel free to contact me at Amaury(dot)Minino(at)colostate(dot)edu (the ñ is not present my email).
 
 ---
 

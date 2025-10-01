@@ -9,51 +9,44 @@ permalink: /CoursePages/CV.html
     <button type="button" style="margin-bottom: 1em;">Click here to return home</button>
 </a>
 
-# Amaury Minino - Curriculum Vitae
+# Amaury Miniño - Curriculum Vitae
 
 ## Contact Information
-- **Email:** amaury.minino@email.com
+- **Email:** Amaury(dot)Minino(at)email.com
 - **GitHub:** [amaury-minino](https://github.com/amaury-minino)
-- **Location:** City, Country
+- **Location:** Fort Collins, Colorado, USA
 
 ---
 
 ## Professional Summary
-Experienced software engineer with a strong background in web development, open source contributions, and technical leadership. Passionate about building scalable solutions and collaborating in diverse teams.
+Graduate Student experienced in studying algebraic properties of data sets, and algebraic methods of conducting data analysis
 
 ---
 
 ## Skills
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, VS Code, GitHub Actions
-- **Other:** REST APIs, CI/CD, Agile methodologies
+- **Languages:** Python, Magama, MATLAB
+
+- **Tools:** Git, VS Code
+<!-- - **Other:** REST APIs, CI/CD, Agile methodologies-->
 
 ---
 
 ## Experience
 
-### Software Engineer  
-**Tech Company Name** — City, Country  
-*Jan 2022 – Present*
-- Developed and maintained web applications using React and Node.js.
-- Led migration of legacy systems to modern frameworks.
-- Collaborated with cross-functional teams to deliver features on schedule.
+### Instructor - University  
+**Colorado State University** — Fort Collins, Colorado  
+*August 2020 – Present*
+- Instructor of record for various courses.
 
-### Junior Developer  
-**Startup Name** — City, Country  
-*Jun 2020 – Dec 2021*
-- Assisted in building RESTful APIs and frontend components.
-- Wrote unit and integration tests to ensure code quality.
-- Participated in code reviews and agile ceremonies.
+
 
 ---
 
 ## Education
 
-**B.Sc. in Computer Science**  
-University Name — City, Country  
-*2016 – 2020*
+**B.Sc. in Mathematics**  
+Florida Atlantic University — Boca Raton, Florida  
+*2017 – 2020*
 
 ---
 
@@ -61,7 +54,7 @@ University Name — City, Country
 
 - **Personal Portfolio:** [amaury-minino.github.io](https://amaury-minino.github.io)
 - **Open Source Contributions:** Active contributor to several GitHub repositories.
-
+<!--
 ---
 
 ## Certifications
@@ -69,21 +62,15 @@ University Name — City, Country
 - AWS Certified Developer – Associate
 - Scrum Master Certified
 
+-->
 ---
 
 ## Languages
 
-- English (Fluent)
-- Spanish (Native)
+- English (Native)
+- Spanish (Fluent)
+
 
 ---
 
-## Interests
-
-- Open source
-- Web technologies
-- Machine learning
-
----
-
-_Last updated: June 2024_
+_Last updated: September 2025_
