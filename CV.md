@@ -53,24 +53,17 @@ Florida Atlantic University — Boca Raton, Florida
 ## Projects
 
 - **Personal Portfolio:** [amaury-minino.github.io](https://amaury-minino.github.io)
+- **Code for PhD Thesis:** [github.com/thetensor-space/Hypergraphs](https://github.com/thetensor-space/Hypergraphs)
 - **Open Source Contributions:** Active contributor to several GitHub repositories.
-<!--
----
 
-## Certifications
-
-- AWS Certified Developer – Associate
-- Scrum Master Certified
-
--->
 ---
 
 ## Languages
 
 - English (Native)
-- Spanish (Fluent)
+- Spanish (Native)
 
 
 ---
 
-_Last updated: September 2025_
+_Last updated: December 2025_

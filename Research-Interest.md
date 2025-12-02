@@ -29,7 +29,7 @@ For my work, I look at tensors as multilinear maps.
 - Adjacency Tensors of Hypergraphs
 - Global Structure
 
-An application of my work on tensor decomposition is in studying adjacency tensors of hypergraphs. While traditional methods utilize an extension of spectral theory to multilinear functions, I am instead leveraging the use of endomorphisms on the vector spaces over which these tensors are defined.
+An application of my work on tensor decomposition is in studying adjacency tensors of hypergraphs. While traditional methods utilize an extension of spectral theory to multilinear functions, I am instead leveraging the use of endomorphisms on the vector spaces over which these tensors are defined. This work is currently being hosted on [TheTensor.Space](https://thetensor.space/events/Hypergraphs)
 
 --
 ## Get in Touch
