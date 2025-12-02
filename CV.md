@@ -48,6 +48,14 @@ Graduate Student experienced in studying algebraic properties of data sets, and 
 Florida Atlantic University — Boca Raton, Florida  
 *2017 – 2020*
 
+**M.S. in Mathematics**
+Colorado State University - Fort Collins, Colorado
+*2020-2023*
+
+**Ph.D. in Mathmatics**
+Colorado State University - Fort Collins, Colorado
+*In Progress*
+
 ---
 
 ## Projects
